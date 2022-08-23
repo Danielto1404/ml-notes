@@ -13,3 +13,5 @@ Documentation
 #### Normalization layers:
 
 * [Overview](https://theaisummer.com/normalization/)
+
+<img alt="normalization" src="assets/norm_layers.png" style="border-radius: 8px">
