@@ -1,10 +1,11 @@
 *ML Notes*
 
 Documentation
-1. [Frameworks](#a-linkframeworks-frameworks-a)
+
+1. [Frameworks](#frameworks)
 2. [Normalization layers](#normalization-layers)
 
-#### <a link="frameworks"> Frameworks </a>:
+#### Frameworks:
 
 * [PyTorch](https://pytorch.org/)
 * [Numpy](https://numpy.org/)
