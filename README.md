@@ -18,6 +18,8 @@ Documentation
 * [Linformer](https://arxiv.org/abs/2006.04768): _Self-Attention with Linear Complexity (`O(n^2)` => `O(n)`)_
 * [Vision Transformer](https://arxiv.org/abs/2010.11929): _An Image is Worth 16x16 Words: Transformers for Image
   Recognition at Scale_
+* [DEiT](https://arxiv.org/abs/2012.12877): _Training data-efficient image transformers & distillation through
+  attention: Distill token_
 
 #### Residual Networks:
 
