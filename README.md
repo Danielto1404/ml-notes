@@ -6,6 +6,7 @@ Documentation
 2. [Transformers](#transformers)
 3. [Detection](#detection)
 4. [Normalization layers](#normalization-layers)
+5. [Optimizers](#optimizers)
 
 #### Frameworks:
 
@@ -32,12 +33,17 @@ Documentation
 * [RevNet](https://arxiv.org/abs/1707.04585): _The Reversible Residual Network – Backpropagation Without Storing
   Activations_
 
-
 #### Language models:
-* [PEER](https://arxiv.org/pdf/2208.11663.pdf): _**P**lan, **E**dit, **E**xplain, **R**epeat. A collaborative language model from **Meta AI**_
+
+* [PEER](https://arxiv.org/pdf/2208.11663.pdf): _**P**lan, **E**dit, **E**xplain, **R**epeat. A collaborative language
+  model from **Meta AI**_
 
 #### Normalization layers:
 
 * [Overview](https://theaisummer.com/normalization/)
 
 <img alt="normalization" src="assets/norm_layers.png" style="border-radius: 8px">
+
+#### Optimizers:
+
+* [Adan](https://arxiv.org/abs/2208.06677): _Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models_
